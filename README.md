@@ -7,6 +7,7 @@ Contains practice programs, examples, and notes from basics to advanced concepts
 - C
 - C++
 - Java
+- Python 
 
 ## Purpose
 - Strengthen programming fundamentals
