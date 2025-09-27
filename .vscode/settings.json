@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "ostream": "cpp"
     },
     "python.testing.pytestArgs": [
         "PYTHON"
